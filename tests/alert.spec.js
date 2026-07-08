@@ -19,7 +19,8 @@ page.on('dialog',(dialog)=>{
 
 });
 await page.click('[onclick="jsConfirm()"]');
-
+name='Karthi'
+company='yamaha'
 
 }
 )
